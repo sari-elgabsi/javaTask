@@ -1,0 +1,4 @@
+com\controller\URLShorteningControllerTest.class
+com\service\URLShorteningServiceTest.class
+com\ApplicationTests.class
+com\util\ConstantsTest.class
